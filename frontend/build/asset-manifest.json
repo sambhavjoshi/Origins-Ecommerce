@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.287a21c3.chunk.css",
+    "main.js": "/static/js/main.0bed3c43.chunk.js",
+    "main.js.map": "/static/js/main.0bed3c43.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cdf2ad16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cdf2ad16.js.map",
+    "static/css/2.9af896a7.chunk.css": "/static/css/2.9af896a7.chunk.css",
+    "static/js/2.0cc23eff.chunk.js": "/static/js/2.0cc23eff.chunk.js",
+    "static/js/2.0cc23eff.chunk.js.map": "/static/js/2.0cc23eff.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9af896a7.chunk.css.map": "/static/css/2.9af896a7.chunk.css.map",
+    "static/css/main.287a21c3.chunk.css.map": "/static/css/main.287a21c3.chunk.css.map",
+    "static/js/2.0cc23eff.chunk.js.LICENSE.txt": "/static/js/2.0cc23eff.chunk.js.LICENSE.txt",
+    "static/media/appStore.4bc811d8.png": "/static/media/appStore.4bc811d8.png",
+    "static/media/App.css": "/static/media/darkBackground.f9e84be2.png",
+    "static/media/cc.cb20c192.png": "/static/media/cc.cb20c192.png",
+    "static/media/gfg.d8fe7b7c.png": "/static/media/gfg.d8fe7b7c.png",
+    "static/media/leetcode.a2235233.png": "/static/media/leetcode.a2235233.png",
+    "static/media/logo.f495ab0b.png": "/static/media/logo.f495ab0b.png",
+    "static/media/logoDark.d5c27464.png": "/static/media/logoDark.d5c27464.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdf2ad16.js",
+    "static/css/2.9af896a7.chunk.css",
+    "static/js/2.0cc23eff.chunk.js",
+    "static/css/main.287a21c3.chunk.css",
+    "static/js/main.0bed3c43.chunk.js"
+  ]
+}
